@@ -1,0 +1,14 @@
+C:\Users\And\Desktop\WCF_Service_App\Test_DB_ConsoleApp\bin\Debug\Test_DB_ConsoleApp.exe.config
+C:\Users\And\Desktop\WCF_Service_App\Test_DB_ConsoleApp\bin\Debug\Test_DB_ConsoleApp.exe
+C:\Users\And\Desktop\WCF_Service_App\Test_DB_ConsoleApp\bin\Debug\Test_DB_ConsoleApp.pdb
+C:\Users\And\Desktop\WCF_Service_App\Test_DB_ConsoleApp\obj\Debug\Test_DB_ConsoleApp.csprojAssemblyReference.cache
+C:\Users\And\Desktop\WCF_Service_App\Test_DB_ConsoleApp\obj\Debug\Test_DB_ConsoleApp.csproj.CoreCompileInputs.cache
+C:\Users\And\Desktop\WCF_Service_App\Test_DB_ConsoleApp\obj\Debug\Test_DB_ConsoleApp.exe
+C:\Users\And\Desktop\WCF_Service_App\Test_DB_ConsoleApp\obj\Debug\Test_DB_ConsoleApp.pdb
+I:\Users\And\Documents\desktop\WCF-Projects\Employee manage(WinForms App)\Test_DB_ConsoleApp\bin\Debug\Test_DB_ConsoleApp.exe.config
+I:\Users\And\Documents\desktop\WCF-Projects\Employee manage(WinForms App)\Test_DB_ConsoleApp\bin\Debug\Test_DB_ConsoleApp.exe
+I:\Users\And\Documents\desktop\WCF-Projects\Employee manage(WinForms App)\Test_DB_ConsoleApp\bin\Debug\Test_DB_ConsoleApp.pdb
+I:\Users\And\Documents\desktop\WCF-Projects\Employee manage(WinForms App)\Test_DB_ConsoleApp\obj\Debug\Test_DB_ConsoleApp.csprojAssemblyReference.cache
+I:\Users\And\Documents\desktop\WCF-Projects\Employee manage(WinForms App)\Test_DB_ConsoleApp\obj\Debug\Test_DB_ConsoleApp.csproj.CoreCompileInputs.cache
+I:\Users\And\Documents\desktop\WCF-Projects\Employee manage(WinForms App)\Test_DB_ConsoleApp\obj\Debug\Test_DB_ConsoleApp.exe
+I:\Users\And\Documents\desktop\WCF-Projects\Employee manage(WinForms App)\Test_DB_ConsoleApp\obj\Debug\Test_DB_ConsoleApp.pdb

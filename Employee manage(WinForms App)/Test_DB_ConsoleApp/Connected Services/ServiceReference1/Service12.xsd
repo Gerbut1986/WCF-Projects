@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="utf-8"?>
+<xs:schema xmlns:tns="http://schemas.datacontract.org/2004/07/WCF_Service_App" elementFormDefault="qualified" targetNamespace="http://schemas.datacontract.org/2004/07/WCF_Service_App" xmlns:xs="http://www.w3.org/2001/XMLSchema">
+  <xs:complexType name="Employers">
+    <xs:sequence>
+      <xs:element minOccurs="0" name="Address" nillable="true" type="xs:string" />
+      <xs:element minOccurs="0" name="Datebirthday" nillable="true" type="xs:string" />
+      <xs:element minOccurs="0" name="Email" nillable="true" type="xs:string" />
+      <xs:element minOccurs="0" name="FIO" nillable="true" type="xs:string" />
+      <xs:element minOccurs="0" name="Id" type="xs:int" />
+      <xs:element minOccurs="0" name="Phone" type="xs:int" />
+      <xs:element minOccurs="0" name="Salary" nillable="true" type="xs:string" />
+    </xs:sequence>
+  </xs:complexType>
+  <xs:element name="Employers" nillable="true" type="tns:Employers" />
+</xs:schema>

@@ -1,0 +1,24 @@
+C:\Users\And\Desktop\WCF_Service_App\WCF_Service_App\obj\Debug\WCF_Service_App.csproj.CoreCompileInputs.cache
+C:\Users\And\Desktop\WCF_Service_App\WCF_Service_App\bin\WCF_Service_App.dll.config
+C:\Users\And\Desktop\WCF_Service_App\WCF_Service_App\bin\WCF_Service_App.dll
+C:\Users\And\Desktop\WCF_Service_App\WCF_Service_App\bin\WCF_Service_App.pdb
+C:\Users\And\Desktop\WCF_Service_App\WCF_Service_App\obj\Debug\WCF_Service_App.dll
+C:\Users\And\Desktop\WCF_Service_App\WCF_Service_App\obj\Debug\WCF_Service_App.pdb
+C:\Users\And\Desktop\WCF_Service_App\WCF_Service_App\obj\Debug\WCF_Service_App.csprojAssemblyReference.cache
+C:\Users\And\Desktop\WCF_Service_App\WCF_Service_App\bin\EntityFramework.dll
+C:\Users\And\Desktop\WCF_Service_App\WCF_Service_App\bin\EntityFramework.SqlServer.dll
+C:\Users\And\Desktop\WCF_Service_App\WCF_Service_App\bin\EntityFramework.xml
+C:\Users\And\Desktop\WCF_Service_App\WCF_Service_App\bin\EntityFramework.SqlServer.xml
+C:\Users\And\Desktop\WCF_Service_App\WCF_Service_App\obj\Debug\WCF_Service_App.csproj.CopyComplete
+I:\Users\And\Documents\desktop\WCF-Projects\Employee manage(WinForms App)\WCF_Service_App\bin\WCF_Service_App.dll.config
+I:\Users\And\Documents\desktop\WCF-Projects\Employee manage(WinForms App)\WCF_Service_App\bin\WCF_Service_App.dll
+I:\Users\And\Documents\desktop\WCF-Projects\Employee manage(WinForms App)\WCF_Service_App\bin\WCF_Service_App.pdb
+I:\Users\And\Documents\desktop\WCF-Projects\Employee manage(WinForms App)\WCF_Service_App\bin\EntityFramework.dll
+I:\Users\And\Documents\desktop\WCF-Projects\Employee manage(WinForms App)\WCF_Service_App\bin\EntityFramework.SqlServer.dll
+I:\Users\And\Documents\desktop\WCF-Projects\Employee manage(WinForms App)\WCF_Service_App\bin\EntityFramework.xml
+I:\Users\And\Documents\desktop\WCF-Projects\Employee manage(WinForms App)\WCF_Service_App\bin\EntityFramework.SqlServer.xml
+I:\Users\And\Documents\desktop\WCF-Projects\Employee manage(WinForms App)\WCF_Service_App\obj\Debug\WCF_Service_App.csprojAssemblyReference.cache
+I:\Users\And\Documents\desktop\WCF-Projects\Employee manage(WinForms App)\WCF_Service_App\obj\Debug\WCF_Service_App.csproj.CoreCompileInputs.cache
+I:\Users\And\Documents\desktop\WCF-Projects\Employee manage(WinForms App)\WCF_Service_App\obj\Debug\WCF_Service_App.csproj.CopyComplete
+I:\Users\And\Documents\desktop\WCF-Projects\Employee manage(WinForms App)\WCF_Service_App\obj\Debug\WCF_Service_App.dll
+I:\Users\And\Documents\desktop\WCF-Projects\Employee manage(WinForms App)\WCF_Service_App\obj\Debug\WCF_Service_App.pdb

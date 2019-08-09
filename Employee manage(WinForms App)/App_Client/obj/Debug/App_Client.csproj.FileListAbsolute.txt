@@ -1,0 +1,24 @@
+C:\Users\And\Desktop\WCF_Service_App\App_Client\bin\Debug\App_Client.exe.config
+C:\Users\And\Desktop\WCF_Service_App\App_Client\bin\Debug\App_Client.exe
+C:\Users\And\Desktop\WCF_Service_App\App_Client\bin\Debug\App_Client.pdb
+C:\Users\And\Desktop\WCF_Service_App\App_Client\obj\Debug\App_Client.csprojAssemblyReference.cache
+C:\Users\And\Desktop\WCF_Service_App\App_Client\obj\Debug\App_Client.Properties.Resources.resources
+C:\Users\And\Desktop\WCF_Service_App\App_Client\obj\Debug\App_Client.csproj.GenerateResource.cache
+C:\Users\And\Desktop\WCF_Service_App\App_Client\obj\Debug\App_Client.csproj.CoreCompileInputs.cache
+C:\Users\And\Desktop\WCF_Service_App\App_Client\obj\Debug\App_Client.exe
+C:\Users\And\Desktop\WCF_Service_App\App_Client\obj\Debug\App_Client.pdb
+C:\Users\And\Desktop\WCF_Service_App\App_Client\obj\Debug\App_Client.ShowAll.resources
+C:\Users\And\Desktop\WCF_Service_App\App_Client\obj\Debug\App_Client.MainForm.resources
+I:\Users\And\Documents\desktop\WCF-Projects\Employee manage(WinForms App)\App_Client\bin\Debug\DATA\WCF_DB.mdf
+I:\Users\And\Documents\desktop\WCF-Projects\Employee manage(WinForms App)\App_Client\bin\Debug\DATA\WCF_DB_log.ldf
+I:\Users\And\Documents\desktop\WCF-Projects\Employee manage(WinForms App)\App_Client\bin\Debug\App_Client.exe.config
+I:\Users\And\Documents\desktop\WCF-Projects\Employee manage(WinForms App)\App_Client\bin\Debug\App_Client.exe
+I:\Users\And\Documents\desktop\WCF-Projects\Employee manage(WinForms App)\App_Client\bin\Debug\App_Client.pdb
+I:\Users\And\Documents\desktop\WCF-Projects\Employee manage(WinForms App)\App_Client\obj\Debug\App_Client.csprojAssemblyReference.cache
+I:\Users\And\Documents\desktop\WCF-Projects\Employee manage(WinForms App)\App_Client\obj\Debug\App_Client.MainForm.resources
+I:\Users\And\Documents\desktop\WCF-Projects\Employee manage(WinForms App)\App_Client\obj\Debug\App_Client.Properties.Resources.resources
+I:\Users\And\Documents\desktop\WCF-Projects\Employee manage(WinForms App)\App_Client\obj\Debug\App_Client.ShowAll.resources
+I:\Users\And\Documents\desktop\WCF-Projects\Employee manage(WinForms App)\App_Client\obj\Debug\App_Client.csproj.GenerateResource.cache
+I:\Users\And\Documents\desktop\WCF-Projects\Employee manage(WinForms App)\App_Client\obj\Debug\App_Client.csproj.CoreCompileInputs.cache
+I:\Users\And\Documents\desktop\WCF-Projects\Employee manage(WinForms App)\App_Client\obj\Debug\App_Client.exe
+I:\Users\And\Documents\desktop\WCF-Projects\Employee manage(WinForms App)\App_Client\obj\Debug\App_Client.pdb
