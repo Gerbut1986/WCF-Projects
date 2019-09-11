@@ -1,6 +1,7 @@
 ﻿namespace WCF_Service_App
 {
     using System.Collections.Generic;
+    using System.Configuration;
     using System.Data;
     using System.Data.SqlClient;
     using System.Linq;
@@ -8,8 +9,12 @@
 
     public class Service1 : IService1
     {
-        readonly string connectionString = @"Data Source=(LocalDB)\MSSQLLocalDB;AttachDbFilename='I:\Users\And\Documents\desktop\WCF-Projects\Employee manage(WinForms App)\App_Client\DATA\WCF_DB.mdf';Integrated Security=True";
+        public readonly string connectionString;
 
+        public Service1()
+        {
+            connectionString = ConfigurationManager.ConnectionStrings["connection"].ConnectionString;
+        }
         // Add one New:
         public string InsertEmployer(Employers e)
         {
@@ -56,14 +61,21 @@
         // Select All:
         public DataSet ShowAllEntities()
         {
-            SqlConnection conn = new SqlConnection(connectionString);
-            conn.Open();
-            SqlCommand cmd = new SqlCommand("SELECT * FROM Employers", conn);
-            SqlDataAdapter sqlAdapter = new SqlDataAdapter(cmd);
-            DataSet dataSet = new DataSet();
-            sqlAdapter.Fill(dataSet);
-            cmd.ExecuteNonQuery();
-            conn.Close();
+            SqlConnection conn = null; DataSet dataSet = null;
+            try
+            {
+                using (conn = new SqlConnection(connectionString))
+                {
+                    conn.Open();
+                    SqlCommand cmd = new SqlCommand("SELECT * FROM Employers", conn);
+                    SqlDataAdapter sqlAdapter = new SqlDataAdapter(cmd);
+                    dataSet = new DataSet();
+                    sqlAdapter.Fill(dataSet);
+                    cmd.ExecuteNonQuery();
+                }
+            }
+            catch { }
+            finally { conn.Close(); }
 
             return dataSet;
         }

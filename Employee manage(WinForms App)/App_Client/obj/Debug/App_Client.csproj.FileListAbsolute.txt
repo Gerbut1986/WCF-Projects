@@ -22,3 +22,16 @@ I:\Users\And\Documents\desktop\WCF-Projects\Employee manage(WinForms App)\App_Cl
 I:\Users\And\Documents\desktop\WCF-Projects\Employee manage(WinForms App)\App_Client\obj\Debug\App_Client.csproj.CoreCompileInputs.cache
 I:\Users\And\Documents\desktop\WCF-Projects\Employee manage(WinForms App)\App_Client\obj\Debug\App_Client.exe
 I:\Users\And\Documents\desktop\WCF-Projects\Employee manage(WinForms App)\App_Client\obj\Debug\App_Client.pdb
+C:\Users\Admin\Downloads\Employee manage(WinForms App)\App_Client\bin\Debug\DATA\WCF_DB.mdf
+C:\Users\Admin\Downloads\Employee manage(WinForms App)\App_Client\bin\Debug\DATA\WCF_DB_log.ldf
+C:\Users\Admin\Downloads\Employee manage(WinForms App)\App_Client\bin\Debug\App_Client.exe.config
+C:\Users\Admin\Downloads\Employee manage(WinForms App)\App_Client\bin\Debug\App_Client.exe
+C:\Users\Admin\Downloads\Employee manage(WinForms App)\App_Client\bin\Debug\App_Client.pdb
+C:\Users\Admin\Downloads\Employee manage(WinForms App)\App_Client\obj\Debug\App_Client.csprojAssemblyReference.cache
+C:\Users\Admin\Downloads\Employee manage(WinForms App)\App_Client\obj\Debug\App_Client.MainForm.resources
+C:\Users\Admin\Downloads\Employee manage(WinForms App)\App_Client\obj\Debug\App_Client.Properties.Resources.resources
+C:\Users\Admin\Downloads\Employee manage(WinForms App)\App_Client\obj\Debug\App_Client.ShowAll.resources
+C:\Users\Admin\Downloads\Employee manage(WinForms App)\App_Client\obj\Debug\App_Client.csproj.GenerateResource.cache
+C:\Users\Admin\Downloads\Employee manage(WinForms App)\App_Client\obj\Debug\App_Client.csproj.CoreCompileInputs.cache
+C:\Users\Admin\Downloads\Employee manage(WinForms App)\App_Client\obj\Debug\App_Client.exe
+C:\Users\Admin\Downloads\Employee manage(WinForms App)\App_Client\obj\Debug\App_Client.pdb

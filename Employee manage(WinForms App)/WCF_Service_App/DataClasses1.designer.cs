@@ -36,7 +36,7 @@ namespace WCF_Service_App
     #endregion
 		
 		public DataClasses1DataContext() : 
-				base(ConfigurationManager.ConnectionStrings["WCF_DBConnectionString"].ConnectionString, mappingSource)
+				base(ConfigurationManager.ConnectionStrings["connection"].ConnectionString)
 		{
 			OnCreated();
 		}

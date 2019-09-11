@@ -206,7 +206,7 @@
             // findID
             // 
             this.findID.Font = new System.Drawing.Font("Microsoft Sans Serif", 12F, System.Drawing.FontStyle.Bold, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
-            this.findID.Location = new System.Drawing.Point(106, 77);
+            this.findID.Location = new System.Drawing.Point(114, 77);
             this.findID.Name = "findID";
             this.findID.Size = new System.Drawing.Size(47, 26);
             this.findID.TabIndex = 16;
@@ -227,7 +227,7 @@
             this.findedBtn.BackColor = System.Drawing.Color.Navy;
             this.findedBtn.Font = new System.Drawing.Font("Microsoft Sans Serif", 15.75F, System.Drawing.FontStyle.Bold, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
             this.findedBtn.ForeColor = System.Drawing.Color.FromArgb(((int)(((byte)(255)))), ((int)(((byte)(255)))), ((int)(((byte)(192)))));
-            this.findedBtn.Location = new System.Drawing.Point(66, 118);
+            this.findedBtn.Location = new System.Drawing.Point(72, 118);
             this.findedBtn.Name = "findedBtn";
             this.findedBtn.Size = new System.Drawing.Size(129, 37);
             this.findedBtn.TabIndex = 19;

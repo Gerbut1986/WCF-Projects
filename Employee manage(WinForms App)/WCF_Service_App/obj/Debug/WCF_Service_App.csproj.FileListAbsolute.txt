@@ -22,3 +22,15 @@ I:\Users\And\Documents\desktop\WCF-Projects\Employee manage(WinForms App)\WCF_Se
 I:\Users\And\Documents\desktop\WCF-Projects\Employee manage(WinForms App)\WCF_Service_App\obj\Debug\WCF_Service_App.csproj.CopyComplete
 I:\Users\And\Documents\desktop\WCF-Projects\Employee manage(WinForms App)\WCF_Service_App\obj\Debug\WCF_Service_App.dll
 I:\Users\And\Documents\desktop\WCF-Projects\Employee manage(WinForms App)\WCF_Service_App\obj\Debug\WCF_Service_App.pdb
+C:\Users\Admin\Downloads\Employee manage(WinForms App)\WCF_Service_App\bin\WCF_Service_App.dll.config
+C:\Users\Admin\Downloads\Employee manage(WinForms App)\WCF_Service_App\bin\WCF_Service_App.dll
+C:\Users\Admin\Downloads\Employee manage(WinForms App)\WCF_Service_App\bin\WCF_Service_App.pdb
+C:\Users\Admin\Downloads\Employee manage(WinForms App)\WCF_Service_App\bin\EntityFramework.dll
+C:\Users\Admin\Downloads\Employee manage(WinForms App)\WCF_Service_App\bin\EntityFramework.SqlServer.dll
+C:\Users\Admin\Downloads\Employee manage(WinForms App)\WCF_Service_App\bin\EntityFramework.xml
+C:\Users\Admin\Downloads\Employee manage(WinForms App)\WCF_Service_App\bin\EntityFramework.SqlServer.xml
+C:\Users\Admin\Downloads\Employee manage(WinForms App)\WCF_Service_App\obj\Debug\WCF_Service_App.csprojAssemblyReference.cache
+C:\Users\Admin\Downloads\Employee manage(WinForms App)\WCF_Service_App\obj\Debug\WCF_Service_App.csproj.CoreCompileInputs.cache
+C:\Users\Admin\Downloads\Employee manage(WinForms App)\WCF_Service_App\obj\Debug\WCF_Service_App.csproj.CopyComplete
+C:\Users\Admin\Downloads\Employee manage(WinForms App)\WCF_Service_App\obj\Debug\WCF_Service_App.dll
+C:\Users\Admin\Downloads\Employee manage(WinForms App)\WCF_Service_App\obj\Debug\WCF_Service_App.pdb
