@@ -4,5 +4,5 @@ Some my own examples
 On this project use WCF service app and 2 clients Windows Forms & test for Console App.
 Main interaction with MS SQL , Service(WCF)(localhost) and 2 clients(WinForms & ConsoleApp)
 
+First, you must change the WebConfig section to your local
 
-Firstly you should to change WebConfig <connectionString> section in your own local
